@@ -8,7 +8,7 @@ LoveBirds is a simple and effective wedding planner that helps you conveniently 
 
 LoveBirds is designed to help you plan your wedding. This application contains features that allow couples to manage tasks efficiently and keep track of when they are due. Simple and useful, LoveBirds aims to make the process of planning your wedding easy.
 
-<img src="https://raw.githubusercontent.com/farzana-moury/LoveBirdsApp/49ae1699ef9f6328448e81399c44eec0fc16bf29/overviewImage.png?token=ARSZOSXIYZ47EL7FVDXXRPLC4FE7M" width="450">
+<img src="https://raw.githubusercontent.com/farzana-moury/LoveBirdsApp/49ae1699ef9f6328448e81399c44eec0fc16bf29/overviewImage.png?token=ARSZOSVUBXZKUSTTVZX4GBLC4FFZW" width="450">
 
 ## Features
 
