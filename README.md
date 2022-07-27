@@ -2,7 +2,7 @@
 
 LoveBirds is a simple and effective wedding planner that helps you conveniently plan your wedding!
 
-<img src="https://raw.githubusercontent.com/farzana-moury/LoveBirdsApp/a1b352cf52c32302bd54c40de298b29d65ef4f03/lovebirds.png?token=ARSZOSTDF4K4FBLRROUXML3C4FESE" width="250">
+<img src="https://raw.githubusercontent.com/farzana-moury/LoveBirdsApp/a1b352cf52c32302bd54c40de298b29d65ef4f03/lovebirds.png?token=ARSZOSWVMRVAICL22MTHX6LC4FFTU" width="250">
 
 ## Overview
 
