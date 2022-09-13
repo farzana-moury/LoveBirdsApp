@@ -1,6 +1,6 @@
 # LoveBirds Wedding Planner
 
-LoveBirds is a simple and effective wedding planner that helps you conveniently plan your wedding! It is both an app and website but this repository deals with the app.
+LoveBirds is a simple and effective wedding planner that helps you conveniently plan your wedding! It is both an app and website but this repository deals with the app. Proudly made with Flutter.
 
 <img src="https://raw.githubusercontent.com/farzana-moury/LoveBirdsApp/a1b352cf52c32302bd54c40de298b29d65ef4f03/lovebirds.png?token=ARSZOSWVMRVAICL22MTHX6LC4FFTU" width="250">
 
